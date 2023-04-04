@@ -12,7 +12,7 @@ This example shows how to create a [report parameter](https://docs.devexpress.co
 
 ## Files to Look At:
 
-* [Form1.cs](./CS/ReportParameterExample/Form1.cs) (VB: [Form1.vb](./VB/ReportParameterExampleVB/Form1.vb))
+* [Form1.cs](./CS/ReportParameterExample/Form1.cs) (VB: [Form1.vb](./VB/ReportParameterExample/Form1.vb))
 
 ## Documentation
 
